@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "fe7c216cbb561529",
+    "type": "split",
+    "children": [
+      {
+        "id": "6015ccabf60a5bde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53ecdcae113b28fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jenkins 與 github 同步.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ebdd962afc8d9907",
+    "type": "split",
+    "children": [
+      {
+        "id": "a80a47ef5530de08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be9d2dfe4c171f72",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9836344d5ef047b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2e7ce4d16448b1dc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3ae40a8a2e0274fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e84bb13426cefa7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2fc1e31069e67cb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Jenkins 與 github 同步.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "50cefdc0a1e12afe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Jenkins 與 github 同步.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "13bd752b93c5205a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4a102f2733c91e00",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Jenkins 與 github 同步.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "53ecdcae113b28fe",
+  "lastOpenFiles": [
+    "pic/Pasted image 20230920165535.png",
+    "pic/Pasted image 20230920165328.png",
+    "pic/Pasted image 20230920164954.png",
+    "pic/Pasted image 20230920164625.png",
+    "Jenkins安裝筆記.md",
+    "Jenkins 與 github 同步.md",
+    "pic/Pasted image 20230920163538.png",
+    "pic/Pasted image 20230920163515.png",
+    "pic/Pasted image 20230920163408.png",
+    "pic/Pasted image 20230920162511.png",
+    "pic/Pasted image 20230920162302.png",
+    "pic/Pasted image 20230920161936.png",
+    "pic/Pasted image 20230920161902.png",
+    "未命名.md",
+    "pic",
+    "Pasted image 20230920160035.png.md",
+    "assests",
+    "roger",
+    "Pasted image 20230920154815.png.md",
+    "Pasted image 20230920154744.png.md",
+    "Pasted image 20230920154833.png.md",
+    "linux/未命名.md",
+    "linux/assest",
+    "linux",
+    "assest"
+  ]
+}

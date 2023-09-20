@@ -1,0 +1,7 @@
+{
+  "attachmentFolderPath": "./pic",
+  "promptDelete": false,
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "useMarkdownLinks": false
+}
