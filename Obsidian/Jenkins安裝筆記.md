@@ -24,3 +24,6 @@ url 執行 http://localhost:8080/ 即可看到  Jenkins 登入畫面
 
 輸入 剛剛的Token 選擇 她建議的安裝 即可以完成Jenkins 
 
+![[Pasted image 20230920172125.png]]
+
+![](Pasted%20image%2020230920172137.png)
