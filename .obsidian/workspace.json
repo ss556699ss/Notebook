@@ -11,9 +11,11 @@
             "id": "f913af9b03ef6426",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian/pic/Pasted image 20230920172657.png"
+                "file": "Obsidian/Jenkins 與 github 同步.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/pic/Pasted image 20230920172657.png",
+                "file": "Obsidian/Jenkins 與 github 同步.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/pic/Pasted image 20230920172657.png",
+                "file": "Obsidian/Jenkins 與 github 同步.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/pic/Pasted image 20230920172657.png"
+                "file": "Obsidian/Jenkins 與 github 同步.md"
               }
             }
           }
@@ -146,19 +148,18 @@
   },
   "active": "f913af9b03ef6426",
   "lastOpenFiles": [
-    "Obsidian/pic/Pasted image 20230920165535.png",
-    "Obsidian/pic/Pasted image 20230920172657.png",
+    "Obsidian/Jenkins安裝筆記.md",
+    "Obsidian/pic/Pasted image 20230920173203.png",
+    "Obsidian/pic/Pasted image 20230920173143.png",
     "Obsidian/Jenkins 與 github 同步.md",
+    "Obsidian/pic/Pasted image 20230920172752.png",
+    "Obsidian/pic/Pasted image 20230920172740.png",
+    "Obsidian/pic/Pasted image 20230920172727.png",
+    "Obsidian/pic/Pasted image 20230920172657.png",
+    "Obsidian/pic/Pasted image 20230920165535.png",
     "Obsidian/pic/Pasted image 20230920172911.png",
     "Obsidian/pic/Pasted image 20230920172900.png",
     "Obsidian/pic/Pasted image 20230920172846.png",
-    "Obsidian/pic/Pasted image 20230920172835.png",
-    "Obsidian/pic/Pasted image 20230920172824.png",
-    "Obsidian/pic/Pasted image 20230920172815.png",
-    "Obsidian/pic/Pasted image 20230920172803.png",
-    "Obsidian/pic/Pasted image 20230920172752.png",
-    "Obsidian/Jenkins安裝筆記.md",
-    "Obsidian/pic/Pasted image 20230920172740.png",
     "Obsidian/未命名.md",
     "未命名.md",
     "未命名 1.md"
