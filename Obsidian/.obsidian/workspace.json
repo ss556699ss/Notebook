@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jenkins 與 github 同步.md",
+                "file": "Jenkins安裝筆記.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jenkins 與 github 同步.md",
+                "file": "Jenkins安裝筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jenkins 與 github 同步.md",
+                "file": "Jenkins安裝筆記.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jenkins 與 github 同步.md"
+                "file": "Jenkins安裝筆記.md"
               }
             }
           }
@@ -148,19 +148,18 @@
   },
   "active": "53ecdcae113b28fe",
   "lastOpenFiles": [
+    "Jenkins 與 github 同步.md",
     "pic/Pasted image 20230920165535.png",
     "pic/Pasted image 20230920165328.png",
     "pic/Pasted image 20230920164954.png",
     "pic/Pasted image 20230920164625.png",
     "Jenkins安裝筆記.md",
-    "Jenkins 與 github 同步.md",
     "pic/Pasted image 20230920163538.png",
     "pic/Pasted image 20230920163515.png",
     "pic/Pasted image 20230920163408.png",
     "pic/Pasted image 20230920162511.png",
     "pic/Pasted image 20230920162302.png",
     "pic/Pasted image 20230920161936.png",
-    "pic/Pasted image 20230920161902.png",
     "未命名.md",
     "pic",
     "Pasted image 20230920160035.png.md",
