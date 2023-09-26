@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Jenkins 與 github 同步.md",
+                "file": "Obsidian/Jenkins安裝筆記.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14fe3db97d447a00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中信有哪些通知.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#每天晚上12點發送的通知",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Jenkins 與 github 同步.md",
+                "file": "中信有哪些通知.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Jenkins 與 github 同步.md",
+                "file": "中信有哪些通知.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Jenkins 與 github 同步.md"
+                "file": "中信有哪些通知.md"
               }
             }
           }
@@ -146,22 +160,24 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "f913af9b03ef6426",
+  "active": "14fe3db97d447a00",
   "lastOpenFiles": [
+    "pic/Pasted image 20230926111322.png",
+    "pic/Pasted image 20230926111249.png",
+    "pic/Pasted image 20230926110146.png",
+    "pic/Pasted image 20230926104312.png",
+    "pic/Pasted image 20230926104228.png",
+    "pic/Pasted image 20230925114412.png",
+    "pic/Pasted image 20230921174245.png",
+    "pic/Pasted image 20230921173851.png",
+    "pic/Pasted image 20230921173831.png",
+    "pic/Pasted image 20230921173824.png",
+    "pic/Pasted image 20230921172953.png",
+    "pic",
     "Obsidian/Jenkins安裝筆記.md",
-    "Obsidian/pic/Pasted image 20230920173203.png",
-    "Obsidian/pic/Pasted image 20230920173143.png",
+    "中信有哪些通知.md",
     "Obsidian/Jenkins 與 github 同步.md",
-    "Obsidian/pic/Pasted image 20230920172752.png",
-    "Obsidian/pic/Pasted image 20230920172740.png",
-    "Obsidian/pic/Pasted image 20230920172727.png",
-    "Obsidian/pic/Pasted image 20230920172657.png",
-    "Obsidian/pic/Pasted image 20230920165535.png",
-    "Obsidian/pic/Pasted image 20230920172911.png",
-    "Obsidian/pic/Pasted image 20230920172900.png",
-    "Obsidian/pic/Pasted image 20230920172846.png",
     "Obsidian/未命名.md",
-    "未命名.md",
     "未命名 1.md"
   ]
 }
