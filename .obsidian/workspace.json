@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#每天晚上12點發送的通知",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,6 +161,9 @@
   },
   "active": "14fe3db97d447a00",
   "lastOpenFiles": [
+    "pic/Pasted image 20230926174444.png",
+    "Obsidian/Jenkins安裝筆記.md",
+    "中信有哪些通知.md",
     "pic/Pasted image 20230926111322.png",
     "pic/Pasted image 20230926111249.png",
     "pic/Pasted image 20230926110146.png",
@@ -172,10 +174,7 @@
     "pic/Pasted image 20230921173851.png",
     "pic/Pasted image 20230921173831.png",
     "pic/Pasted image 20230921173824.png",
-    "pic/Pasted image 20230921172953.png",
     "pic",
-    "Obsidian/Jenkins安裝筆記.md",
-    "中信有哪些通知.md",
     "Obsidian/Jenkins 與 github 同步.md",
     "Obsidian/未命名.md",
     "未命名 1.md"
