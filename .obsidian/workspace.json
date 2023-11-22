@@ -20,6 +20,38 @@
             }
           },
           {
+            "id": "5c76670389d22569",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "K8S相關概念.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2852387324229f72",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "bfb2244f26a81c88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "14fe3db97d447a00",
             "type": "leaf",
             "state": {
@@ -30,9 +62,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "db01417cb4ff9d4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Jenkins安裝筆記.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8801277f47901a16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Jenkins 與 github 同步.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -61,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#sql的Dockerfile",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 200
   },
   "right": {
     "id": "5d495003449e4248",
@@ -98,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中信有哪些通知.md",
+                "file": "docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中信有哪些通知.md",
+                "file": "docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中信有哪些通知.md"
+                "file": "docker.md"
               }
             }
           }
@@ -159,23 +215,30 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "14fe3db97d447a00",
+  "active": "bfb2244f26a81c88",
   "lastOpenFiles": [
-    "pic/Pasted image 20230926174444.png",
-    "Obsidian/Jenkins安裝筆記.md",
-    "中信有哪些通知.md",
-    "pic/Pasted image 20230926111322.png",
-    "pic/Pasted image 20230926111249.png",
-    "pic/Pasted image 20230926110146.png",
-    "pic/Pasted image 20230926104312.png",
-    "pic/Pasted image 20230926104228.png",
-    "pic/Pasted image 20230925114412.png",
-    "pic/Pasted image 20230921174245.png",
-    "pic/Pasted image 20230921173851.png",
-    "pic/Pasted image 20230921173831.png",
-    "pic/Pasted image 20230921173824.png",
-    "pic",
+    "K8S相關概念.md",
+    "docker.md",
+    "日本行程(明哲佩臻專用勿偷).md",
+    "日本.md",
+    "未命名.canvas",
+    "迪士尼注意事項.md",
     "Obsidian/Jenkins 與 github 同步.md",
+    "中信有哪些通知.md",
+    "Linux.md",
+    "pic/S__44384412.jpg",
+    "pic/Pasted image 20231020115114.png",
+    "pic/Pasted image 20231020114733.png",
+    "pic/Pasted image 20231020114720.png",
+    "pic/Pasted image 20231020114704.png",
+    "pic/Pasted image 20231020114636.png",
+    "Obsidian/Jenkins安裝筆記.md",
+    "pic/Pasted image 20231019111324.png",
+    "pic/Pasted image 20231019094534.png",
+    "pic/Pasted image 20231017161852.png",
+    "pic/Pasted image 20231017161843.png",
+    "未命名",
+    "pic",
     "Obsidian/未命名.md",
     "未命名 1.md"
   ]
